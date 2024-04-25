@@ -1,6 +1,6 @@
-# exercicio-02
+# exercicio-02 - Treinamento Github
 Repositório criado para realizar o treinamento do Github - Modulo 02
-# Treinamento Github
+# Treinamento Github - Desenvolvimento
 Este treinamento foi muito bem fundamentado 
-# Treinamento
+# Treinamento e capacitação
 Desenvolvido para aprimoramento e capacitação de colaboradores Philips
