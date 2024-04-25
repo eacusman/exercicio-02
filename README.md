@@ -1,4 +1,4 @@
-# exercicio-02 - Treinamento Github formato online
+# exercicio-02 - Treinamento Github online
 Repositório criado para realizar o treinamento do Github - Modulo 02
 # Treinamento Github - Desenvolvimento profissional
 Este treinamento foi muito bem fundamentado 
